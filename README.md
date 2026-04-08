@@ -2,9 +2,8 @@
 
 # World Cup 2026 CLI Dashboard
 
-[![lint](https://github.com/elmamza/world-cup-2026-cli-dashboard/workflows/lint/badge.svg)](https://github.com/elmamza/world-cup-2026-cli-dashboard/actions) [![test](https://github.com/elmamza/world-cup-2026-cli-dashboard/workflows/test/badge.svg)](https://github.com/elmamza/world-cup-2026-cli-dashboard/actions) [![release](https://badgen.net/github/release/elmamza/world-cup-2026-cli-dashboard)](https://github.com/elmamza/world-cup-2026-cli-dashboard/releases)
-
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/kinda-sfw.svg)](https://forthebadge.com) [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/made-with-go.svg)](https://forthebadge.com)
+[![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go)](https://go.dev)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > ⚽ Dashboard CLI interactif pour suivre la Coupe du Monde 2026 depuis votre terminal.
 > Fork du [world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard).
